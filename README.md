@@ -18,7 +18,6 @@ A simple contact management system developed using C++ that allows users to add,
 
 ## Example Usage
 
-\`\`\`
 Contact Management System
 1. Add a contact
 2. Display contacts
@@ -26,6 +25,7 @@ Contact Management System
 4. Delete a contact
 5. Delete all contacts
 6. Exit
+```sh
 Enter your choice: 1
 Enter name: John Doe
 Enter phone number: 1234567890
@@ -42,10 +42,7 @@ Enter your choice: 2
 Contacts:
 Name: John Doe
 Phone: 1234567890
-
-...
-\`\`\`
-
+```
 ## Notes
 
 - Contacts are stored in memory and will be lost when the program is closed.
